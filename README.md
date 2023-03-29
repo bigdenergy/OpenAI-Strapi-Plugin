@@ -6,7 +6,9 @@ An OpenAI plugin to generate your Strapi content.
 ## Documentation
 
 #### 1. Create a .env with your Open AI API Token. 
-##### OPEN_AI_API_TOKEN=‘API_TOKEN‘
+```
+OPEN_AI_API_TOKEN=‘API_TOKEN‘
+```
 
 #### 2. Enable the OpenAI x Strapi plugin in /config/plugins.js. 
 ```
