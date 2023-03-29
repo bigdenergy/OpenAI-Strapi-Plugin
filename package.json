@@ -1,12 +1,18 @@
 {
-  "name": "open-ai",
-  "version": "0.0.0",
+  "name": "strapi-open-ai",
+  "version": "1.0.1",
   "description": "An OpenAI plugin to generate your Strapi content.",
   "strapi": {
     "name": "open-ai",
-    "description": "https://www.youtube.com/watch?v=xNr_OdpPFe4&ab_channel=Strapi",
+    "description": "An OpenAI plugin to generate your Strapi content.",
     "kind": "plugin",
-    "displayName": "OpenAI Strapi Plugin"
+    "displayName": "OpenAI Plugin"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/viesurvous/OpenAI-Strapi-Plugin",
+    "description": "An OpenAI plugin to generate your Strapi content.",
+    "kind": "plugin"
   },
   "dependencies": {
     "@strapi/design-system": "^1.6.3",
@@ -27,11 +33,15 @@
     "styled-components": "^5.3.6"
   },
   "author": {
-    "name": "Valentin Hardy"
+    "name": "Valentin Hardy",
+    "email": "valentin@vanitech.studio",
+    "url": "https://linkedin.com/in/vhrd"
   },
   "maintainers": [
     {
-      "name": "Valentin Hardy"
+      "name": "Valentin Hardy",
+      "email": "valentin@vanitech.studio",
+      "url": "https://linkedin.com/in/vhrd"
     }
   ],
   "engines": {
