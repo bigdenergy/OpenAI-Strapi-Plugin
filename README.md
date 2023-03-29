@@ -8,10 +8,10 @@ An OpenAI plugin to generate your Strapi content.
 
 #### 0. Install via NPM or Yarn.
 ```
-npm i npm i strapi-open-ai-plugin
+npm i strapi-open-ai-plugin
 ```
 ```
-yarn add  strapi-open-ai-plugin
+yarn add strapi-open-ai-plugin
 ```
 
 
