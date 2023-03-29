@@ -6,6 +6,15 @@ An OpenAI plugin to generate your Strapi content.
 
 ## Documentation
 
+#### 0. Install via NPM or Yarn.
+```
+npm i npm i strapi-open-ai-plugin
+```
+```
+yarn add  strapi-open-ai-plugin
+```
+
+
 #### 1. Create a .env with your Open AI API Token. 
 ```
 OPEN_AI_API_TOKEN=‘API_TOKEN‘
@@ -20,7 +29,7 @@ module.exports = ({ env }) => ({
     config: {
       apiToken: process.env.OPEN_AI_API_TOKEN,
     },
-    resolve: './src/plugins/open-ai',
+    resolve: './node_modules/strapi-open-ai-plugin',
   },
 });
 ```

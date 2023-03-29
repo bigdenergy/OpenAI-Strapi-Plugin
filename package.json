@@ -1,6 +1,6 @@
 {
-  "name": "strapi-open-ai",
-  "version": "1.0.0",
+  "name": "strapi-open-ai-plugin",
+  "version": "1.0.1",
   "description": "An OpenAI plugin to generate your Strapi content.",
   "strapi": {
     "name": "open-ai",
@@ -19,18 +19,6 @@
     "@strapi/helper-plugin": "^4.6.0",
     "@strapi/icons": "^1.6.3",
     "prop-types": "^15.7.2"
-  },
-  "devDependencies": {
-    "react": "^17.0.2",
-    "react-dom": "^17.0.2",
-    "react-router-dom": "^5.3.4",
-    "styled-components": "^5.3.6"
-  },
-  "peerDependencies": {
-    "react": "^17.0.2",
-    "react-dom": "^17.0.2",
-    "react-router-dom": "^5.3.4",
-    "styled-components": "^5.3.6"
   },
   "author": {
     "name": "Valentin Hardy",
