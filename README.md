@@ -3,6 +3,7 @@
 
 An OpenAI plugin to generate your Strapi content.
 
+
 ## Documentation
 
 #### 1. Create a .env with your Open AI API Token. 
