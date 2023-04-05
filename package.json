@@ -1,7 +1,8 @@
 {
-  "name": "@strapi/strapi-open-ai-plugin",
-  "version": "1.0.3",
+  "name": "strapi-open-ai-plugin",
+  "version": "1.0.4",
   "description": "An OpenAI plugin to generate your Strapi content.",
+  "license": "CC BY-NC 4.0",
   "strapi": {
     "name": "open-ai",
     "description": "An OpenAI plugin to generate your Strapi content.",
