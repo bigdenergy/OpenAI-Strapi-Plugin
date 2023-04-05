@@ -42,5 +42,5 @@ module.exports = ({ env }) => ({
 ## Badges
 
 
-[Creative Commons Attribution-NonCommercial 4.0 International License](https://creativecommons.org/licenses/by-nc/40/).
+[Creative Commons Attribution-Non-Commercial 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0/).
 
